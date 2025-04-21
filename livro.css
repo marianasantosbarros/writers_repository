@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.all{
+    background-color: peachpuff;
+}
+p{
+    font-family: helvetica;
+}
+h1{
+    font-family: serif;
+}
+h2{
+    font-family: helvetica;
+}
+h3{
+    font-family: helvetica;
+}
+a{
+    font-family: sans-serif;
+}
